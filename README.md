@@ -1,4 +1,6 @@
 # Desing Patterns
-Design patterns in java language. I will update this repository frequently.
 
-Main source: https://www.journaldev.com/1827/java-design-patterns-example-tutorial
+## Creational Design Patterns 
+Creational design patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
+
+* *Singleton pattern restricts the instantiation of a class and ensures that only one instance of the class exists in the java virtual machine.*
