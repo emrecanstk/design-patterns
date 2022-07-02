@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Creational Design Patterns/Singleton",
-        "Creational Design Patterns/Factory"
+        "Creational Design Patterns/Factory",
+        "Creational Design Patterns/Abstract Factory"
     ]
 }
