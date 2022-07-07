@@ -1,3 +1,4 @@
 https://www.journaldev.com/1827/java-design-patterns-example-tutorial
 https://sourcemaking.com/design_patterns
 https://medium.com/bili%C5%9Fim-hareketi/factory-fabrika-pattern-c14baca707be
+https://www.tutorialspoint.com/design_pattern/builder_pattern.htm
