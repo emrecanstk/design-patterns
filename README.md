@@ -9,3 +9,8 @@ Creational design patterns provide various object creation mechanisms, which inc
 * Abstract Factory: *we get rid of if-else block and have a factory class for each sub-class. Then an Abstract Factory class that will return the sub-class based on the input factory class.*
 * Builder: *builds a complex object using simple objects and using a step by step approach. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.*
 * Prototype: *is used when the Object creation is a costly affair and requires a lot of time and resources and you have a similar object already existing. Prototype pattern provides a mechanism to copy the original object to a new object and then modify it according to our needs. Prototype design pattern uses java cloning to copy the object.*
+
+## Structural Design Patterns
+Structural patterns provide different ways to create a class structure, for example using inheritance and composition to create a large object from small objects.
+
+* Adapter: *is one of the structural design pattern and its used so that two unrelated interfaces can work together. The object that joins these unrelated interface is called an Adapter.*
